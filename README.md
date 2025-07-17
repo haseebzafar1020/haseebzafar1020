@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haseeb Zafar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Fso%2Ftech-cartoon&psig=AOvVaw15Jy7dlUsDn7OgTSDETu4s&ust=1752850402997000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiJxPCSxI4DFQAAAAAdAAAAABAL" width="450px" align="right" alt="">
+<img src="https://png.pngtree.com/png-vector/20240320/ourmid/pngtree-coding-clipart-guy-in-glasses-computer-tech-cartoon-vector-illustration-png-image_11957889.png" width="450px" align="right" alt="">
 - 🌱 I’m currently learning **DSA,Web development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/haseeb-zafar-33b043299](https://www.linkedin.com/in/haseeb-zafar-33b043299)
